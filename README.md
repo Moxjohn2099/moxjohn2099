@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hello! I'm John Azores
 
-<!--
-**Moxjohn2099/moxjohn2099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring software developer with a passion for web development and real-world applications.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Frontend: HTML, CSS, JavaScript
+- Backend: PHP, MySQL
+- Tools: Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- [To-Do List Web App](https://github.com/moxjohn2099/todo-app)
+- [Weather App](https://github.com/moxjohn2099/weather-app)
+- [Library Management System (Capstone)](https://github.com/moxjohn2099/library-system)
+
+## 📫 Contact Me
+- Email: markjohnazores20@gmail.com
+- LinkedIn: [Your LinkedIn Here]
