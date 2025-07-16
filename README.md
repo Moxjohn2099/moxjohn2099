@@ -14,4 +14,4 @@ I'm an aspiring software developer with a passion for web development and real-w
 
 ## 📫 Contact Me
 - Email: markjohnazores20@gmail.com
-- LinkedIn: [Your LinkedIn Here]
+- LinkedIn: [linkedin.com/in/mark-john-azores-m1999]
