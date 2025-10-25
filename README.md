@@ -4,7 +4,7 @@ I'm an aspiring software developer with a passion for web development and real-w
 
 ## 🛠️ Skills
 - Frontend: HTML, CSS, JavaScript
-- Backend: PHP, MySQL
+- Backend: PHP, MySQL Python
 - Tools: Git, GitHub, VS Code
 
 ## 📂 Projects
